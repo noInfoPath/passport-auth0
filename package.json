@@ -1,7 +1,7 @@
 {
-  "name": "passport-auth0",
-  "version": "0.6.0",
-  "description": "Auth0 platform authentication strategy for Passport.js",
+  "name": "noinfopaht-passport-auth0",
+  "version": "1.0.0",
+  "description": "Auth0 platform authentication strategy for Passport.js.  Modified by NoInfoPath to add better Auto0 Exception handling.",
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha"

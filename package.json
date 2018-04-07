@@ -1,6 +1,6 @@
 {
   "name": "noinfopath-passport-auth0",
-  "version": "1.0.0",
+  "version": "2.1.0",
   "description": "Auth0 platform authentication strategy for Passport.js.  Modified by NoInfoPath to add better Auto0 Exception handling.",
   "main": "lib/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/auth0/passport-auth0"
+    "url": "https://github.com/noInfoPath/passport-auth0.git"
   },
   "author": {
     "name": "José F. Romaniello",
